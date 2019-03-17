@@ -983,6 +983,8 @@
         </e>
         <e p="Shaders" t="Include">
           <e p="Base.shader" t="Include" />
+          <e p="BlinnPhongDoubleSided.shader" t="Include" />
+          <e p="Demo.shader" t="Include" />
           <e p="DoubleSided.shader" t="Include" />
         </e>
       </e>
