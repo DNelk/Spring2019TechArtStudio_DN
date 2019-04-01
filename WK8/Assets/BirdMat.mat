@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Amplitude: 19.83
+    - _Amplitude: 3.98
     - _AmplitudeOffset: 0
     - _BlueColorMult: 50
     - _BumpScale: 1
@@ -65,7 +65,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _Float0: 50
-    - _Frequency: 17.32
+    - _Frequency: 6
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -73,9 +73,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _PositionalAmplitudeScalar: 12.9
-    - _PositionalOffset: 33.02
-    - _RedColorMult: 50
+    - _PositionalAmplitudeScalar: 5
+    - _PositionalOffset: 13.01
+    - _RedColorMult: 30
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

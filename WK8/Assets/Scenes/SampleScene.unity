@@ -280,7 +280,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 384.04123
+      value: 384.51
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -317,6 +317,18 @@ PrefabInstance:
     - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: e3d44e5942a694a1db0e596bdd20a2c7, type: 3}
       propertyPath: m_Materials.Array.data[0]
